@@ -1,0 +1,3 @@
+Arquivo para remoção de AD no Anydesk...
+
+- Usar administrador para executar, fechar assim que terminar. 
